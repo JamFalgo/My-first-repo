@@ -1,0 +1,6 @@
+Get Bash - Terminal (command line)
+ls = List files
+ls -a = List all files (hidden)
+pwd = Print my working directory (show file location ei.. /c/user/vilox/nig)
+mkdir = New directory
+mkdir -
